@@ -17,6 +17,7 @@
 
 
 import subprocess
+#Using subprocess we can directly run any linux command in python 
 
 target_ip = "192.168.91.129"
 
